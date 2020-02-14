@@ -11,6 +11,10 @@ int main(){
     iddf = id-1;
 
     printf("\n%i", iddf);
+    
+    iddf = id+1;
+    
+    printf("\nSua idade original é: %i", iddf);
 
     printf("\n");
 
